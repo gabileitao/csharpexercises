@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostStackOverflow", "PostStackOverflow\PostStackOverflow.csproj", "{FCB98555-4311-420D-A613-3210AD8D4CA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stopwatch", "Stopwatch\Stopwatch.csproj", "{4E7DDFB6-38AA-4F10-B6EF-59E9BC5FB652}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCB98555-4311-420D-A613-3210AD8D4CA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCB98555-4311-420D-A613-3210AD8D4CA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCB98555-4311-420D-A613-3210AD8D4CA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCB98555-4311-420D-A613-3210AD8D4CA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E7DDFB6-38AA-4F10-B6EF-59E9BC5FB652}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E7DDFB6-38AA-4F10-B6EF-59E9BC5FB652}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E7DDFB6-38AA-4F10-B6EF-59E9BC5FB652}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E7DDFB6-38AA-4F10-B6EF-59E9BC5FB652}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C7FD608-667A-4265-AA39-FE1E667F53CD}
+	EndGlobalSection
+EndGlobal
